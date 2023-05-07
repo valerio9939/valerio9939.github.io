@@ -1,0 +1,172 @@
+body {
+    background-color: lightgray;
+    padding-top: 150px;
+    padding-left: 235px;
+    padding-right: 30px;
+}
+
+p {
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.content {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+summary {
+    cursor: pointer;
+    color: darkgreen;
+    font-size:larger;
+}
+
+h1 {
+    color: green;
+}
+
+.content a {
+    color: green;
+    text-decoration: none;
+}
+
+.content-chi-sono a {
+    color: green;
+    text-decoration: none;
+}
+
+.header a {
+    color: green;
+    text-decoration: none;
+}
+
+.img-social {
+    height: 40px;
+    cursor: pointer;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+li {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    
+
+.social-links {
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+.text-chi-sono {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.img-chi-sono {
+    height: 400px;
+}
+
+.content-chi-sono {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+@media screen and (max-width: 869px) {
+    body {
+        padding-top: 108px;
+        padding-left: 167px;
+        padding-right: 30px;
+    }
+    .content-chi-sono {
+        grid-template-columns: 250px;
+        justify-items: center;
+    }
+}
+
+
+footer {
+    display: flex;
+    margin-top: 50px;
+    width: 100%;
+    height: 125px;
+    font-size: 20px;
+    background: gray;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.preview-progetto {
+    width: 200px;
+    display: inline-block;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 15px;
+    margin-bottom: 18px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+.img-progetto {
+    width: 200px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.titolo-progetto {
+    padding-bottom: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.link-progetto {
+    background-color: #5995DA;
+    border-radius: 20px;
+    display: inline-block;
+    padding-left: 10px; 
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.link-progetto a {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-progetti {
+    align-items: center;
+    justify-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 7px;
+    row-gap: 18px;
+}
+
+@media screen and (max-width: 1350px) {
+    .container-progetti {
+    grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 1118px) {
+    .container-progetti {
+    grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 869px) {
+    .container-progetti {
+    grid-template-columns: 1fr;
+    }
+}
+

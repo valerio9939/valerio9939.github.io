@@ -1,0 +1,60 @@
+.speaker-form {
+    background-color: white;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+
+.form-row {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.form-row input[type='text'],
+.form-row input[type='email'],
+.form-row textarea {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: initial;
+    background-color: lightgray;
+    border-radius: 20px;
+    width: 95%;
+    padding: 20px;
+    border:none;
+}
+
+.form-row input[type='text']:invalid,
+.form-row input[type='email']:invalid {
+  color: #D55C5F;
+  box-shadow: none;
+}
+
+.form-row textarea {
+    min-height: 200px;
+    margin-bottom: 10px;
+    resize:none;
+}
+
+.form-row button {
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #5995DA;
+    padding: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 45%;
+    border:none;
+    text-align: center;
+    display: inline-block;
+}
+  
+.form-row button:hover {
+    background-color: #76AEED;
+}
+  
+.form-row button:active {
+    background-color: #407FC7;
+}

@@ -153,6 +153,7 @@ footer {
     
     .content-chi-sono {
         justify-items: center;
+        grid-template-columns: 250px;
     }
     
     p {

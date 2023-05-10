@@ -142,17 +142,11 @@ footer {
 
 @media screen and (max-width: 1350px) {
     .container-progetti {
-    grid-template-columns: 1fr 1fr 1fr;
-    }
-}
-
-@media screen and (max-width: 1118px) {
-    .container-progetti {
     grid-template-columns: 1fr 1fr;
     }
 }
 
-@media screen and (max-width: 869px) {
+@media screen and (max-width: 1118px) {
     .container-progetti {
     grid-template-columns: 1fr;
     }

@@ -77,18 +77,6 @@ li {
     grid-template-columns: 3fr 1fr;
 }
 
-@media screen and (max-width: 869px) {
-    body {
-        padding-top: 108px;
-        padding-left: 167px;
-        padding-right: 30px;
-    }
-    .content-chi-sono {
-        grid-template-columns: 250px;
-        justify-items: center;
-    }
-}
-
 
 footer {
     display: flex;
@@ -167,6 +155,21 @@ footer {
 @media screen and (max-width: 869px) {
     .container-progetti {
     grid-template-columns: 1fr;
+    }
+    
+    body {
+        padding-top: 108px;
+        padding-left: 167px;
+        padding-right: 30px;
+    }
+    
+    .content-chi-sono {
+        grid-template-columns: 250px;
+        justify-items: center;
+    }
+    
+    p {
+        font-size: small;
     }
 }
 

@@ -24,7 +24,7 @@ summary {
 }
 
 ul {
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
 li {
@@ -99,8 +99,8 @@ footer {
     }
 
     p {
-        line-height: 50px;
-        margin: 20px;
+        line-height: 60px;
+        margin: 30px;
     }
     
     .content {
@@ -115,6 +115,14 @@ footer {
     
     h1 {
         margin-bottom: 20px;
+    }
+    
+    ul {
+        margin-left: 50px;
+    }
+    
+    li {
+        line-height: 60px;
     }
     
     footer {
@@ -130,8 +138,8 @@ footer {
     }
     
     p {
-        line-height: 50px;
-        margin: 20px;
+        line-height: 60px;
+        margin: 30px;
     }
     
     .content {
@@ -146,6 +154,14 @@ footer {
     
     h1 {
         margin-bottom: 20px;
+    }
+    
+    ul {
+        margin-left: 50px;
+    }
+    
+    li {
+        line-height: 60px;
     }
     
     footer {

@@ -12,9 +12,44 @@
     padding-top: 20px;
 }
 
-@media screen and (max-width: 869px) {
+.header-mobile {
+    background-color: white;
+    color: green;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 89px;
+    border-radius: 0px;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 20px;
+    display: none;
+}
+
+@media screen and (max-width: 1118px) {
     .header {
-    height: 78px;
-    font-size: 50px;
+        display: none;
+    }
+    .header-mobile {
+        display: block;
+    }
+    .header-mobile a {
+        color: green;
+        text-decoration: none;
+    }
+}
+
+
+@media screen and (max-width: 850px) {
+    .header {
+        display: none;
+    }
+    .header-mobile {
+        display: block;
+    }
+    .header-mobile a {
+        color: green;
+        text-decoration: none;
     }
 }

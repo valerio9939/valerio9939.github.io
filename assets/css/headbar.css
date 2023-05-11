@@ -25,6 +25,7 @@
     font-size: 80px;
     padding-top: 20px;
     display: none;
+    font-weight: bold;
 }
 
 @media screen and (max-width: 1118px) {

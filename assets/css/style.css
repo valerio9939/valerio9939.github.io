@@ -108,6 +108,10 @@ footer {
         font-size: large;
     }
     
+    h1 {
+        margin-bottom: 20px;
+    }
+    
     footer {
         height: 250px;
         font-size: 40px;
@@ -132,6 +136,10 @@ footer {
         font-weight: bold;
         color: green;
         font-size: large;
+    }
+    
+    h1 {
+        margin-bottom: 20px;
     }
     
     footer {

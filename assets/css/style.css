@@ -23,6 +23,10 @@ summary {
     font-size:larger;
 }
 
+ul {
+    margin-left: 50px;
+}
+
 li {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

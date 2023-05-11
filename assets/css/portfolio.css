@@ -83,18 +83,18 @@
     }
 
     .preview-progetto {
-        width: 600px;
+        width: 700px;
     }
 
     .img-progetto {
-        width: 600px;
+        width: 700px;
     }
 
     .titolo-progetto {
-        font-size: 26px;
+        font-size: 32px;
     }
 
     .link-progetto a {
-        font-size: 22px;
+        font-size: 26px;
     }
 }

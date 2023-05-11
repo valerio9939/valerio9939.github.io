@@ -90,24 +90,22 @@ footer {
 
 @media screen and (max-width: 1118px) {
     body {
-        padding-top: 120px;
+        padding-top: 180px;
         padding-left: 30px;
-        padding-right: 30px;
     }
 
     p {
-        line-height: 25px;
+        line-height: 35px;
     }
 }
 
 @media screen and (max-width: 850px) {
     body {
-        padding-top: 120px;
+        padding-top: 180px;
         padding-left: 30px;
-        padding-right: 30px;
     }
     
     p {
-        line-height: 25px;
+        line-height: 35px;
     }
 }

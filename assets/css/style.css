@@ -105,6 +105,11 @@ footer {
     summary {
         font-weight: bold;
     }
+    
+    footer {
+        height: 250px;
+        font-size: 40px;
+    }
 }
 
 @media screen and (max-width: 850px) {
@@ -123,5 +128,10 @@ footer {
     
     summary {
         font-weight: bold;
+    }
+    
+    footer {
+        height: 250px;
+        font-size: 40px;
     }
 }

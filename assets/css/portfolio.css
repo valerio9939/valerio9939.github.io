@@ -60,19 +60,19 @@
     }
 
     .preview-progetto {
-        width: 300px;
+        width: 350px;
     }
 
     .img-progetto {
-        width: 300px;
+        width: 350px;
     }
 
     .titolo-progetto {
-        font-size: 18px;
+        font-size: 22px;
     }
 
     .link-progetto a {
-        font-size: 16px;
+        font-size: 18px;
     }
 }
 

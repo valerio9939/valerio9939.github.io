@@ -101,6 +101,10 @@ footer {
     .content {
         padding: 40px;
     }
+    
+    summary {
+        font-weight: bold;
+    }
 }
 
 @media screen and (max-width: 850px) {
@@ -115,5 +119,9 @@ footer {
     
     .content {
         padding: 40px;
+    }
+    
+    summary {
+        font-weight: bold;
     }
 }

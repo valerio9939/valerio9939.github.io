@@ -8,17 +8,6 @@
     overflow-y: scroll;
 }
 
-@media screen and (max-width: 1118px) {
-    .sidebar {
-    left: 0px;
-    bottom: 0px;
-    top: 92px;
-    width: 137px;
-    font-size: small;
-    overflow-x: scroll;
-    }
-}
-
 .sidebar-link {
     height: 100px;
     cursor: pointer;
@@ -45,4 +34,16 @@
 .sidebar-link div {
     height: 50px;
     color: green;
+}
+
+@media screen and (max-width: 1118px) {
+    .sidebar {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .sidebar {
+        display: none;
+    }
 }

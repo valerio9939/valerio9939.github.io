@@ -54,17 +54,17 @@
     }
 }
 
-@media screen and (max-width: 1210px) {
+@media screen and (max-width: 1250px) {
     .container-progetti {
         grid-template-columns: 1fr 1fr;
     }
 
     .preview-progetto {
-        width: 300px;
+        width: 225px;
     }
 
     .img-progetto {
-        width: 300px;
+        width: 225px;
     }
 
     .titolo-progetto {
@@ -77,7 +77,7 @@
 }
 
 
-@media screen and (max-width: 1070px) {
+@media screen and (max-width: 1100px) {
     .container-progetti {
         grid-template-columns: 1fr;
     }

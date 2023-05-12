@@ -152,6 +152,11 @@ footer {
         grid-template-columns: none;
     }
     
+    .text-chi-sono {
+        display: block;
+    }
+
+    
     summary {
         color: green;
         font-size: 24px;

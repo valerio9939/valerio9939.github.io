@@ -84,9 +84,9 @@
 
     .preview-progetto {
         width: 650px;
-        margin-bottom: 58px;
-        margin-right: 23px;
-        margin-left: 23px;
+        padding-bottom: 58px;
+        padding-right: 23px;
+        padding-left: 23px;
     }
 
     .img-progetto {
@@ -95,15 +95,18 @@
 
     .titolo-progetto {
         font-size: 32px;
-        margin-left: 23px;
+        padding-left: 23px;
     }
 
     .link-progetto a {
         font-size: 26px;
-        padding-left: 10px; 
+        padding-left: 23px; 
         padding-right: 10px;
-        padding-top: 5px;
-        padding-bottom: 5px;
-        margin-left: 23px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        margin-top: 7px;
+        margin-bottom: 7px;
+        margin-left: 15px;
+        margin-right: 15px;
     }
 }

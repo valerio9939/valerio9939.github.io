@@ -150,12 +150,8 @@ footer {
     .content-chi-sono {
         display: flex;
         grid-template-columns: none;
+        flex-direction: column;
     }
-    
-    .text-chi-sono {
-        display: block;
-    }
-
     
     summary {
         color: green;

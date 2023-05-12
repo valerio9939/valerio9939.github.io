@@ -38,6 +38,7 @@ h1 {
 .content a {
     color: green;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .header a {

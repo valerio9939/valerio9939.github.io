@@ -140,7 +140,7 @@ footer {
     p {
         line-height: 30px;
         margin: 30px;
-        font-size: 30px;
+        font-size: 20px;
     }
     
     .content {
@@ -150,7 +150,7 @@ footer {
     summary {
         font-weight: bold;
         color: green;
-        font-size: large;
+        font-size: 30px;
     }
     
     h1 {
@@ -163,7 +163,7 @@ footer {
     
     li {
         line-height: 30px;
-        font-size: 30px;
+        font-size: 20px;
     }
     
     footer {

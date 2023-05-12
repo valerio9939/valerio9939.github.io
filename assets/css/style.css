@@ -127,8 +127,7 @@ footer {
     }
     
     footer {
-        height: 250px;
-        font-size: 40px;
+        height: 125px;
     }
 }
 
@@ -168,6 +167,5 @@ footer {
     
     footer {
         height: 130px;
-        font-size: 100px;
     }
 }

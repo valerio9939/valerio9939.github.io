@@ -150,13 +150,13 @@ footer {
     .content-chi-sono {
         display: flex;
         grid-template-columns: none;
-        flex-direction: column;
-        align-elements: center;
-        justify-elements: center;
+        background-color: white;
+        border-radius: 20px;
+        padding: 20px;
     }
     
     .img-chi-sono {
-        height: 100px;
+        display: none;
     }
     
     summary {

@@ -84,6 +84,9 @@
 
     .preview-progetto {
         width: 650px;
+        margin-bottom: 58px;
+        margin-right: 23px;
+        margin-left: 23px;
     }
 
     .img-progetto {
@@ -92,6 +95,7 @@
 
     .titolo-progetto {
         font-size: 32px;
+        margin-left: 23px;
     }
 
     .link-progetto a {
@@ -100,5 +104,6 @@
         padding-right: 10px;
         padding-top: 5px;
         padding-bottom: 5px;
+        margin-left: 23px;
     }
 }

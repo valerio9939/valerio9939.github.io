@@ -140,6 +140,7 @@ footer {
     p {
         line-height: 25px;
         margin: 30px;
+        font-size: 30px;
     }
     
     .content {
@@ -162,6 +163,7 @@ footer {
     
     li {
         line-height: 25px;
+        font-size: 30px;
     }
     
     footer {

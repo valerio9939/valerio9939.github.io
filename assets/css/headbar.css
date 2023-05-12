@@ -28,7 +28,7 @@
     font-weight: bold;
 }
 
-@media screen and (max-width: 1118px) {
+@media screen and (max-width: 1350px) {
     .header {
         display: none;
     }
@@ -42,7 +42,7 @@
 }
 
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 1050px) {
     .header {
         display: none;
     }

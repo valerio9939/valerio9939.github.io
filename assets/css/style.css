@@ -149,6 +149,7 @@ footer {
     
     .content-chi-sono {
         display: flex;
+        grid-template-columns: none;
     }
     
     summary {

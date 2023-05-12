@@ -151,6 +151,8 @@ footer {
         display: flex;
         grid-template-columns: none;
         flex-direction: column;
+        align-elements: center;
+        justify-elements: center;
     }
     
     summary {

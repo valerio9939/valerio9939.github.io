@@ -57,6 +57,7 @@ h1 {
 .content-chi-sono a {
     color: green;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .text-chi-sono {
@@ -167,6 +168,6 @@ footer {
     
     footer {
         height: 250px;
-        font-size: 40px;
+        font-size: 60px;
     }
 }

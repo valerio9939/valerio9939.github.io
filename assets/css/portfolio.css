@@ -91,10 +91,10 @@
     }
 
     .titolo-progetto {
-        font-size: 36px;
+        font-size: 32px;
         margin-left: 27px;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-top: 7px;
+        margin-bottom: 7px;
     }
     
     .link-progetto {
@@ -103,7 +103,7 @@
     }
 
     .link-progetto a {
-        font-size: 26px;
+        font-size: 24px;
         padding-left: 20px;
         padding-right: 20px;
         padding-top: 25px;

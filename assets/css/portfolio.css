@@ -83,11 +83,11 @@
     }
 
     .preview-progetto {
-        width: 700px;
+        width: 650px;
     }
 
     .img-progetto {
-        width: 700px;
+        width: 650px;
     }
 
     .titolo-progetto {
@@ -96,5 +96,9 @@
 
     .link-progetto a {
         font-size: 26px;
+        padding-left: 10px; 
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
     }
 }

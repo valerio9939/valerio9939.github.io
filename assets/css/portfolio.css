@@ -88,7 +88,7 @@
     }
 
     .img-progetto {
-        width: 650px;
+        width: 590px;
         padding: 30px;
     }
 
@@ -98,11 +98,14 @@
         margin-top: 15px;
         margin-bottom: 10px;
     }
+    
+    .link-progetto {
+        margin-left: 23px;
+        margin-bottom: 20px;
+    }
 
     .link-progetto a {
         font-size: 26px;
-        padding: 15px;
-        margin-left: 15px;
-        margin-bottom: 15px;
+        padding: 20px;
     }
 }

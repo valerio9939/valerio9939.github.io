@@ -105,10 +105,6 @@ footer {
         margin: 30px;
     }
     
-    .content {
-        padding: 40px;
-    }
-    
     summary {
         color: green;
         font-size: 24px;
@@ -143,14 +139,8 @@ footer {
         font-size: 16px;
     }
     
-    .content {
-        padding: 40px;
-    }
-    
     .content-chi-sono {
         grid-template-columns: 1fr;
-        background-color: white;
-        padding: 40px;
     }
     
     .img-chi-sono {

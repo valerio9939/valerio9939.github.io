@@ -148,8 +148,7 @@ footer {
     }
     
     .content-chi-sono {
-        display: flex;
-        grid-template-columns: none;
+        grid-template-columns: 1fr;
         background-color: white;
         padding: 40px;
     }

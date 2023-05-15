@@ -28,7 +28,7 @@
 }
 
 .header-mobile img {
-    height: 100px;
+    height: 70px;
 }    
 
 @media screen and (max-width: 1350px) {

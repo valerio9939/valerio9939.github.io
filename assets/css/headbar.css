@@ -25,6 +25,7 @@
     font-size: 60px;
     padding-top: 20px;
     display: none;
+    font-weight: bold;
 }
 
 .header-mobile img {

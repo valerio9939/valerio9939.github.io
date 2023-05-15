@@ -19,7 +19,7 @@
     top: 0px;
     left: 0px;
     right: 0px;
-    height: 130px;
+    height: 140px;
     border-radius: 0px;
     text-align: center;
     font-size: 60px;
@@ -36,8 +36,9 @@
         display: none;
     }
     .header-mobile {
-        display: block;
-        height: 110px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
     }
     .header-mobile a {
         color: green;
@@ -51,7 +52,9 @@
         display: none;
     }
     .header-mobile {
-        display: block;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
     }
     .header-mobile a {
         color: green;

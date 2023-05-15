@@ -28,6 +28,10 @@
     font-weight: bold;
 }
 
+.header-mobile img {
+    height: 118px;
+}
+
 @media screen and (max-width: 1350px) {
     .header {
         display: none;

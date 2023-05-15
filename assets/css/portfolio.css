@@ -48,7 +48,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-@media screen and (max-width: 1450px) {
+@media screen and (max-width: 1550px) {
     .container-progetti {
         grid-template-columns: 1fr 1fr 1fr;
     }

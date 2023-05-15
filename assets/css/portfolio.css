@@ -2,13 +2,13 @@
     align-items: center;
     justify-items: center;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 7px;
     row-gap: 18px;
 }
 
 .preview-progetto {
-    width: 250px;
+    width: 280px;
     display: inline-block;
     padding: 15px;
     background-color: lightgray;
@@ -19,7 +19,7 @@
 }
 
 .img-progetto {
-    width: 250px;
+    width: 280px;
     border-radius: 15px;
     margin-bottom: 15px;
 }
@@ -46,12 +46,6 @@
     font-size: 12px;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-@media screen and (max-width: 1550px) {
-    .container-progetti {
-        grid-template-columns: 1fr 1fr 1fr;
-    }
 }
 
 @media screen and (max-width: 1350px) {

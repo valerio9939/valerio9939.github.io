@@ -100,7 +100,7 @@
   z-index: 2;
   position: relative;
   cursor: pointer;
-  font-size: 50px;
+  font-size: 45px;
 }
 
 .features-menu {
@@ -108,5 +108,5 @@
 }
 
 .menu-title {
-    font-size: 35px;
+    font-size: 30px;
 }

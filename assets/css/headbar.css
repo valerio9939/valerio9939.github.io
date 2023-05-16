@@ -93,8 +93,13 @@
   z-index: 2;
   position: relative;
   cursor: pointer;
+  font-size: 50px;
 }
 
 .features-menu {
   display: none;
+}
+
+.menu-title {
+    font-size: 40px;
 }

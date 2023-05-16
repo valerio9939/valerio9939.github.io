@@ -62,7 +62,7 @@
     }
 }
 
-.features-menu {
+.dropdown:hover .features-menu {
   display: flex;
   flex-direction: column;
   background: #B2D6FF;
@@ -93,4 +93,8 @@
   z-index: 2;
   position: relative;
   cursor: pointer;
+}
+
+.features-menu {
+  display: none;
 }

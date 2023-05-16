@@ -64,9 +64,6 @@
 
 .menu {
     list-style: none;
-    margin-bottom: 90px;
-    margin-left: 50px;
-    margin-right: 50px;
 }
 
 .dropdown:hover .features-menu {
@@ -99,6 +96,7 @@
 .dropdown > span {
   z-index: 2;
   position: relative;
+  bottom: 50px;
   cursor: pointer;
   font-size: 45px;
 }

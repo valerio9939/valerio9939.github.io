@@ -96,7 +96,7 @@
 .dropdown > span {
       z-index: 2;
       position: relative;
-      bottom: 25px;
+      bottom: 20px;
       cursor: pointer;
       font-size: 45px;
       right: 25px;

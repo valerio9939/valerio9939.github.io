@@ -71,10 +71,9 @@
   flex-direction: column;
   background: #B2D6FF;
   border-radius: 5px;
-  padding-top: 120px;
+  padding-top: 100px;
   position: absolute;
   top: -25px;
-  left: -50px;
   z-index: 1;
 }
 

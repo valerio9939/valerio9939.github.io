@@ -62,6 +62,10 @@
     }
 }
 
+.menu {
+    list-style: none;
+}
+
 .dropdown:hover .features-menu {
   display: flex;
   flex-direction: column;

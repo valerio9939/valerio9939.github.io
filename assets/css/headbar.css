@@ -71,9 +71,10 @@
   flex-direction: column;
   background: #B2D6FF;
   border-radius: 5px;
-  padding-top: 60px;
+  padding-top: 120px;
   position: absolute;
-  top: -75px;
+  top: -25px;
+  left: -50px;
   z-index: 1;
 }
 
@@ -97,6 +98,7 @@
   position: relative;
   cursor: pointer;
   font-size: 50px;
+  font-weight: medium;
 }
 
 .features-menu {
@@ -105,4 +107,5 @@
 
 .menu-title {
     font-size: 35px;
+    font-weight: medium;
 }

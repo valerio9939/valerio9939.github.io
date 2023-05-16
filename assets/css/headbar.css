@@ -63,17 +63,6 @@
     }
 }
 
-body{
-	font-size:100%;
-	color:#000;
-}
-
-.drop-menu {
-	margin: 0 auto;
-	padding: 0;
-	width: 960px;
-}
-
 ul#menu {
 	padding: 0;
 	list-style: none;
